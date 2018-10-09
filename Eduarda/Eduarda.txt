@@ -1,2 +1,7 @@
 Hello, my friends!
+<<<<<<< HEAD
+
+É um casal fofinho
+=======
 oi coleguinha
+>>>>>>> c303b9f1f679847e387962367f7e2a9594cbf715
